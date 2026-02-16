@@ -4,20 +4,22 @@
 
 <br>
 
+## Hi, I'm Dmitriy
 
-## Hi there 👋
+Python engineer building production-focused AI systems.  
+Strong QA background. Systems mindset.
 
-<!--
-**collertop/collertop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔎 What I’m Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AI-powered Telegram systems  
+- Vision + LLM pipelines  
+- Production architecture and cost-efficient AI design  
+- Applying QA thinking to real-world systems  
+
+---
+
+## 🧠 Core Focus
+
+Reliability. Architecture. Practical AI.
