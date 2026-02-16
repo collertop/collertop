@@ -4,7 +4,7 @@
 
 <br>
 
-## Hi, I'm Dmitriy
+## Hi, I'm Dmitry
 
 <p>
   <img src="https://img.shields.io/badge/Python-3.10+-222222?style=flat-square&logo=python&logoColor=white" />
