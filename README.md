@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="banner.gif" width="900"/>
+</p>
+
+<br>
+
+
 ## Hi there 👋
 
 <!--
